@@ -23,26 +23,27 @@ I am a mathematician with a strong interest in Data Analysis and Data Science. I
 
 These projects are solutions to the mini-projects proposed in the freeCodeCamp Data Analysis course.
 
-### 🔹 [Demographic Data Analysis](https://github.com/tu-usuario/demographic-analysis)
+### 🔹 [Demographic Data Analyzer](https://github.com/AlejandroFM-MA/demographic-data-analyzer)
 - Data exploration of the 1994 census using Python and Pandas.
 - Income analysis based on education, age, and gender.
 - Data visualization with Matplotlib and Seaborn.
 
-### 🔹 [Medical Data Analysis](https://github.com/tu-usuario/medical-data-analysis)
+### 🔹 [Medical Data Visualizer](https://github.com/AlejandroFM-MA/medical-data-visualizer)
 - Cleaning and analyzing a medical examination dataset.
 - Creating a catplot and heatmap with Seaborn.
 - Calculating correlations and variable distributions.
 
-### 🔹 [Sea Level Predictor](https://github.com/tu-usuario/sea-level-prediction)
+### 🔹 [Sea Level Predictor](https://github.com/AlejandroFM-MA/sea-level-predictor)
 - Modeling sea level trends using linear regression.
 - Using historical NASA data.
 - Interactive visualizations with Matplotlib.
 
-### 🔹 [World Cup Database](https://github.com/tu-usuario/world-cup-database)
-- Creating a SQL database using PostgreSQL.
-- Advanced queries to analyze matches and winning teams.
+### 🔹 [Time Series Visualizer](https://github.com/AlejandroFM-MA/time-series-visualizer)
+- Analyzing and visualizing time series data.
+- Creating line plots, bar charts, and box plots.
+- Extracting trends and seasonality from data.
 
-Check out all my projects on my [GitHub](https://github.com/tu-usuario).
+Check out all my projects on my [GitHub](https://github.com/AlejandroFM-MA).
 
 ---
 
