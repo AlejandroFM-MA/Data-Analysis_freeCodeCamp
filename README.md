@@ -28,23 +28,27 @@ These projects are solutions to the mini-projects proposed in the freeCodeCamp D
 - Income analysis based on education, age, and gender.
 - Data visualization with Matplotlib and Seaborn.
 
-### 🔹 [Medical Data Visualizer](https://github.com/AlejandroFM-MA/medical-data-visualizer)
+### 🔹 [Medical Data Visualizer](https://github.com/AlejandroFM-MA/Data-Analysis_freeCodeCamp/tree/main/Medical%20Data%20Visualizer)
 - Cleaning and analyzing a medical examination dataset.
 - Creating a catplot and heatmap with Seaborn.
 - Calculating correlations and variable distributions.
 
-### 🔹 [Sea Level Predictor](https://github.com/AlejandroFM-MA/sea-level-predictor)
+### 🔹 [Mean-Var-STD Calculator](https://github.com/AlejandroFM-MA/Data-Analysis_freeCodeCamp/tree/main/Mean-Var-STD)
+- Implementing a function to compute mean, variance, and standard deviation of a 3x3 matrix.
+- Using NumPy for mathematical operations.
+- Returning calculations in a dictionary format.
+
+### 🔹 [Sea Level Predictor](https://github.com/AlejandroFM-MA/Sea%20Level%20Predictor)
 - Modeling sea level trends using linear regression.
 - Using historical NASA data.
 - Interactive visualizations with Matplotlib.
 
-### 🔹 [Time Series Visualizer](https://github.com/AlejandroFM-MA/time-series-visualizer)
+### 🔹 [Time Series Visualizer](https://github.com/AlejandroFM-MA/Time%20Series%20Visualizer)
 - Analyzing and visualizing time series data.
 - Creating line plots, bar charts, and box plots.
 - Extracting trends and seasonality from data.
 
 Check out all my projects on my [GitHub](https://github.com/AlejandroFM-MA).
-
 ---
 
 ## 📈 GitHub Stats
