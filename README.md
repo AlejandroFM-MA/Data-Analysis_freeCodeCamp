@@ -23,7 +23,7 @@ I am a mathematician with a strong interest in Data Analysis and Data Science. I
 
 These projects are solutions to the mini-projects proposed in the freeCodeCamp Data Analysis course.
 
-### 🔹 [Demographic Data Analyzer](https://github.com/AlejandroFM-MA/demographic-data-analyzer)
+### 🔹 [Demographic Data Analyzer](https://github.com/AlejandroFM-MA/Data-Analysis_freeCodeCamp/tree/main/Demographic%20Data%20Analyzer)
 - Data exploration of the 1994 census using Python and Pandas.
 - Income analysis based on education, age, and gender.
 - Data visualization with Matplotlib and Seaborn.
