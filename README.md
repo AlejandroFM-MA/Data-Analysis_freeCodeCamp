@@ -38,12 +38,12 @@ These projects are solutions to the mini-projects proposed in the freeCodeCamp D
 - Using NumPy for mathematical operations.
 - Returning calculations in a dictionary format.
 
-### 🔹 [Sea Level Predictor](https://github.com/AlejandroFM-MA/Sea%20Level%20Predictor)
+### 🔹 [Sea Level Predictor](https://github.com/AlejandroFM-MA/Data-Analysis_freeCodeCamp/tree/main/Sea%20Level%20Predictor)
 - Modeling sea level trends using linear regression.
 - Using historical NASA data.
 - Interactive visualizations with Matplotlib.
 
-### 🔹 [Time Series Visualizer](https://github.com/AlejandroFM-MA/Time%20Series%20Visualizer)
+### 🔹 [Time Series Visualizer](https://github.com/AlejandroFM-MA/Data-Analysis_freeCodeCamp/tree/main/Time%20Series%20Visualizer)
 - Analyzing and visualizing time series data.
 - Creating line plots, bar charts, and box plots.
 - Extracting trends and seasonality from data.
